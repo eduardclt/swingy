@@ -1,0 +1,3 @@
+Wesley,Scout,1,2056,Iron Sword,Iron Shield,Leather helm
+Eduard,Sorcerer,5,12395,Iron Sword,Iron Shield,Iron Helmet
+kdawg,Monk,0,35,Wooden Mace,Robe,Iron Helmet
